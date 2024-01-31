@@ -578,7 +578,7 @@ end TCL_Generic;
       <a name="label" val="ImmSel"/>
       <a name="width" val="3"/>
     </comp>
-    <comp lib="0" loc="(610,240)" name="Tunnel">
+    <comp lib="0" loc="(620,230)" name="Tunnel">
       <a name="label" val="imm"/>
       <a name="width" val="32"/>
     </comp>
@@ -593,7 +593,7 @@ end TCL_Generic;
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(600,240)" name="Multiplexer">
+    <comp lib="2" loc="(600,230)" name="Multiplexer">
       <a name="enable" val="false"/>
       <a name="select" val="3"/>
       <a name="width" val="32"/>
@@ -643,7 +643,7 @@ end TCL_Generic;
     <wire from="(280,610)" to="(290,610)"/>
     <wire from="(480,160)" to="(540,160)"/>
     <wire from="(480,200)" to="(520,200)"/>
-    <wire from="(480,240)" to="(560,240)"/>
+    <wire from="(480,240)" to="(550,240)"/>
     <wire from="(500,180)" to="(530,180)"/>
     <wire from="(500,220)" to="(510,220)"/>
     <wire from="(510,220)" to="(510,230)"/>
@@ -654,8 +654,10 @@ end TCL_Generic;
     <wire from="(530,210)" to="(560,210)"/>
     <wire from="(540,160)" to="(540,200)"/>
     <wire from="(540,200)" to="(560,200)"/>
-    <wire from="(580,280)" to="(580,300)"/>
-    <wire from="(600,240)" to="(610,240)"/>
+    <wire from="(550,240)" to="(550,250)"/>
+    <wire from="(550,250)" to="(560,250)"/>
+    <wire from="(580,270)" to="(580,300)"/>
+    <wire from="(600,230)" to="(620,230)"/>
     <wire from="(70,100)" to="(220,100)"/>
     <wire from="(70,100)" to="(70,260)"/>
     <wire from="(70,260)" to="(220,260)"/>
